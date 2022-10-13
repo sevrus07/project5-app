@@ -1,0 +1,10 @@
+.container{
+    padding: 0.2rem;
+}
+.content{
+    max-width: 30rem;
+    height:2rem;
+    background-color: white;
+    padding: 1rem;
+    border-bottom: 0.1rem solid black;
+}
